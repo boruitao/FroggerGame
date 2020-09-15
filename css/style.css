@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #bdefbd;
+    height: 500px;
+}
+
+#main{
+  z-index: 1;
+}
+
+#button{
+  z-index: 2;
+}
